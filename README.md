@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋 I'm James Pierce
 
-#### These are my public stats!
+I just finished College and am looking to move in to the private sector. After eleven years in the public sector of being in the U.S. Army, and then going to the University of Washington, I’m looking to move in to employment that will allow me to continue learning and improving the world.
+
+## These are my public stats!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmy7412)](https://github.com/anuraghazra/github-readme-stats)
 
